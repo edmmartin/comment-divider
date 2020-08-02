@@ -34,6 +34,7 @@ export const getLanguageLimiters = (lang?: string): ILimiters => {
     case 'bash':
     case 'dockerfile':
     case 'coffeescript':
+    case 'elixir':
     case 'ignore':
     case 'julia':
     case 'makefile':
